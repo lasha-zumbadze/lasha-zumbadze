@@ -1,5 +1,8 @@
 # Lasha Zumbadze
 
+## 🌍 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zumbadze-lasha/)
+
 ### Full-Stack Developer with Backend Focus (Laravel, MySQL)
 
 Full-stack engineer capable of working across the stack, but fully focused on backend development with Laravel and relational database design (MySQL).
@@ -45,6 +48,3 @@ Focused on maintainability, scalability, and predictable backend behavior in pro
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-## 🌍 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zumbadze-lasha/)
