@@ -38,12 +38,3 @@ Contributing to a private Learning Management System built with Laravel.
 - Followed Git-based collaboration and clean architecture principles  
 
 Focused on writing production-ready, scalable backend systems beyond basic CRUD applications.
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lasha-zumbadze&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
