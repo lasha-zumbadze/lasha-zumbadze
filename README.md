@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zumbadze-lasha/) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white)
@@ -21,6 +21,23 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## 🚀 Experience
+
+### 🔐 Private LMS Platform (Confidential)
+**Laravel Backend Developer**
+
+Contributing to a private Learning Management System built with Laravel.
+
+- Designed and implemented scalable RESTful APIs  
+- Structured complex Eloquent relationships (including many-to-many & pivot tables)  
+- Built semester-based academic workflow logic  
+- Designed relational database schemas in MySQL  
+- Applied clean validation, route model binding & proper error handling  
+- Followed Git-based collaboration and clean architecture principles  
+
+Focused on writing production-ready, scalable backend systems beyond basic CRUD applications.
 
 
 ## 🏆 GitHub Trophies
