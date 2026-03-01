@@ -48,6 +48,3 @@ Focused on maintainability, scalability, and predictable backend behavior in pro
 
 ## 🌍 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zumbadze-lasha/)
-
-## 🏆 GitHub Stats
-![](https://github-profile-trophy.vercel.app/?username=lasha-zumbadze&theme=radical&no-frame=false&no-bg=true&margin-w=4)
