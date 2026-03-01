@@ -1,5 +1,5 @@
 # Lasha Zumbadze
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zumbadze-lasha/) [![Gmail](https://img.shields.io/badge/Gmail-%23777BB4?logo=gmail&logoColor=white)](mailto:lashazumbadze6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zumbadze-lasha/) [![Gmail](https://img.shields.io/badge/Gmail-%23FF2D20?logo=gmail&logoColor=white)](mailto:lashazumbadze6@gmail.com)
 
 ### Full-Stack Developer with Backend Focus (Laravel, MySQL)
 
